@@ -96,7 +96,7 @@ Use `.[triton]` if you want to integrate with triton and it's available on your 
 ## Quick Tour
 
 ### Quantization and Inference
-> warning: this is just a showcase of the usage of basic apis in AutoGPTQ, which uses only one sample to quantize a much small model, quality of quantized model using such little samples may not good.
+> warning: this is just a showcase of the usage of basic apis in AutoGPTQ, which uses only one sample to quantize a much small model, quality of quantized model using such little samples may not be good.
 
 Below is an example for the simplest use of `auto_gptq` to quantize a model and inference after quantization: 
 ```python
